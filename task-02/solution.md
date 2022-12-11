@@ -1,0 +1,4 @@
+Huh.that was really a tuff one for me.I had failed many a times and i used to ask my mentors how to solve.They used to give me hints and at last i was able to solve one of the most easy level which became hard just because of my foolishness.but still i was so happy when i completed the task.
+I used various terminal commands like git clone,git log,git checkout ,git branch -a ,find . - etc![Screenshot from 2022-11-07 23-01-57](https://user-images.githubusercontent.com/117291076/200377396-621ae29b-a80c-4660-b06f-4931b1cb1c1c.png)
+![Screenshot from 2022-11-06 21-57-51](https://user-images.githubusercontent.com/117291076/200377538-a46fa93e-d8a6-4cb1-831d-3e907fa77fd9.png)
+![Screenshot from 2022-11-06 11-43-10](https://user-images.githubusercontent.com/117291076/200377670-d86f6f4e-e496-4285-8e87-b2226f0bb132.png)
