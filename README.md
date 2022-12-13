@@ -13,7 +13,6 @@
 | task-09       | Krypto Scrapper                 | Completed    |
 | task-10       | CS50                            | Did Two      |
 | task-14       | Banditoverthewire               | Completed    |
-| ------------- | ------------------------------- | ------------ |
 
 
 
