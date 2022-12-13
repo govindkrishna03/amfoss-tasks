@@ -1,4 +1,4 @@
-#Banditoverthe wire
+# Banditoverthe wire
 
 
 bandit was really easy.As the hints are given it is much more easies .I learnt lot of commands in linux with this task.Most of the important Linux commands are used here.
