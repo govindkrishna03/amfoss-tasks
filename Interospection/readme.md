@@ -17,4 +17,4 @@ Hey guys,My name is Govind Krishna.
 
 
 Regarding the selection process...
-	 	So basically everybody is from different background right like some are from Computer Science and some are from Bio. Though the cs students have an upper hand even bio student can do these stuffs.Even students can copy right. There are some students who couldnt finish the tasks , did not  copy from others but they will learn much faster than otherss and even they would be great assets to the club if identified. Should find people like those too...(that is like me ah.hehe😁).
+	 	 Everybody is from different backgrounds right like some are from Computer Science and some are from Bio. Though the cs students have an upper hand even bio student can do these stuffs.Even students can copy right. There are some students who couldnt finish the tasks , did not  copy from others but they will learn much faster than otherss and even they would be great assets to the club if identified. Should find people like those too...(that is like me ah.hehe😁).
