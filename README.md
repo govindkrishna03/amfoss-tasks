@@ -1,34 +1,19 @@
-| First Header  | Second Header | Third Header |
-| ------------- | ------------- | ------------ |
-| Task List     | Description   |   Status     |
-|                                              |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| First Header  | Second Header                   | Third Header |
+| ------------- | ------------------------------- | ------------ |
+| Task List     | Description                     |   Status     |
+| task-00       | Installing Ubuntu               | Completed    |
+| task-01       | Starring amfoss repositories    | Completed    |
+| task-02       | Terminal Hunt                   | Completed    |
+| task-03       | Programmming                    |  Did one     | 
+| task-04       | Cinebot                         | Completed    |
+| task-05       | Find The Bug                    | Completed    |
+| task-06       | Flame game                      | Completed    |
+| task-07       | Go WASM                         | Completed    |
+| task-08       | Internet Explorer               | Completed    |
+| task-09       | Krypto Scrapper                 | Completed    |
+| task-10       | CS50                            | Did Two      |
+| task-14       | Banditoverthewire               | Completed    |
+| ------------- | ------------------------------- | ------------ |
 
 
 
