@@ -9,7 +9,7 @@ What is your plan for the next 6 months?
 
 How would you contribute back to the club?
 
-	I like working so much but i have never got a chance to do so.If i get I am sure i will work till you guys need me.So I would do the maximum that i can and contribute to the club...........
+	I like working so much but i have never got a chance to do so.If i get I am sure i will work till you guys need me.So I would do the maximum that i can and contribute to the club............
 	
 Do you have any feedback for the selection process?
 
