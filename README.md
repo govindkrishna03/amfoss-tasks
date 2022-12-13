@@ -1,8 +1,7 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Command | Description |
+| First Header  | Second Header | Third Header |
+| ------------- | ------------- | ------------ |
+| Task List     | Description   |   Status     |
+| Command       | Description |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
