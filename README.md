@@ -4,9 +4,8 @@
 
 
 
-| First Header  | Second Header                   | Third Header |
+|  Task List    |          Description            |   Status     |
 | ------------- | ------------------------------- | ------------ |
-| Task List     | Description                     |   Status     |
 | task-00       | Installing Ubuntu               | Completed    |
 | task-01       | Starring amfoss repositories    | Completed    |
 | task-02       | Terminal Hunt                   | Completed    |
