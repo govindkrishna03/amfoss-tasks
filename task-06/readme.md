@@ -1,2 +1,3 @@
+# Flame the Game
 This was new to me.Knew nothing.Googled a lot.started coding using google stuffs and all.Started saturday morning and did till night.And when i run the code.....
 Ah it showed an error."Cant load assets". I checked for errors and nothing was wrong..I wrote the whole code again and even when i run it . It showed the same.
