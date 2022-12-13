@@ -1,12 +1,11 @@
 # Amfoss-tasks-
 
 # Govind Krishna
-  CSE S1 ,
-  Batch 2022.
 
 
 
-|  Task List    |          Description            |   Status     |
+
+|  Tasks List   |          Description            |   Status     |
 | ------------- | ------------------------------- | ------------ |
 | task-00       | Installing Ubuntu               | Completed    |
 | task-01       | Starring amfoss repositories    | Completed    |
