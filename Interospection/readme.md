@@ -23,7 +23,7 @@ How would you contribute back to the club?
 Do you have any feedback for the selection process?
 
 
-     Regarding the selection process..
+     Regarding the selection process...
 	    
        So basically everybody is from different background right like some are from Computer Science and some are from Bio. Though the cs students have an upper hand 
       even bio student can do these stuffs.Even students can copy right. There are some students who couldnt finish the tasks , did not  copy from others but they will
